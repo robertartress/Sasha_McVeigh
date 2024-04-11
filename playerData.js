@@ -1,7 +1,7 @@
 var playerData = [
     {
-      title: 'PLACEHOLDER_SONG_TITLE',
-      file: 'PLACEHOLDER_FILENAME',
+      title: 'Love Don't Walk (Mastered 4.9.24) (v3)',
+      file: 'Love Don't Walk (Mastered 4.9.24) (v3).flac',
       howl: null
     }
     // Add more tracks as needed
