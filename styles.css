@@ -37,7 +37,7 @@ body {
   background: -webkit-linear-gradient(-45deg, #5b6e91 0%, #4367a9 100%);
   background: linear-gradient(135deg, #5b6e91 0%, #4367a9 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5b6e91', endColorstr='#4367a9', GradientType=1);
-  font-family: 'larkebold', "Helvetica Neue", "Futura", "Trebuchet MS", Arial, sans-serif;
+  font-family: 'larkeregular', "Helvetica Neue", "Futura", "Trebuchet MS", Arial, sans-serif;
   /*font-family: "Helvetica Neue", "Futura", "Trebuchet MS", Arial; (original fonts */
   -webkit-user-select: none;
   user-select: none;
